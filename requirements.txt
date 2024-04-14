@@ -9,3 +9,4 @@ pycryptodome==3.9.7
 tqdm
 z3-solver
 pycrypto
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
